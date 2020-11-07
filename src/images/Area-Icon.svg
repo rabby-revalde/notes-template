@@ -1,0 +1,15 @@
+<svg id="Area_Icon" data-name="Area Icon" xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="Ellipse_9" data-name="Ellipse 9" fill="none" stroke="#000a3e" stroke-width="3">
+    <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+    <circle cx="19.5" cy="19.5" r="18" fill="none"/>
+  </g>
+  <g id="Component_14_1" data-name="Component 14 – 1" transform="translate(9 10)">
+    <path id="Path_205" data-name="Path 205" d="M1275.31,2485.5v14.145" transform="translate(-1273.31 -2485)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Path_210" data-name="Path 210" d="M0,0V15.573" transform="translate(20.073 17.571) rotate(90)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Path_206" data-name="Path 206" d="M1275.31,2485.5v4" transform="translate(2489.499 -1260.738) rotate(90)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Path_209" data-name="Path 209" d="M0,0V4" transform="translate(4.573 19.571) rotate(180)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Path_207" data-name="Path 207" d="M1275.31,2485.5v4" transform="translate(2489.499 -1274.738) rotate(90)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Path_208" data-name="Path 208" d="M0,0V4" transform="translate(20 19.571) rotate(180)" fill="none" stroke="#000a3e" stroke-width="0.5"/>
+    <path id="Union_4" data-name="Union 4" d="M0,67V52H10v4h6V67Z" transform="translate(4.5 -52)" fill="#000a3e"/>
+  </g>
+</svg>

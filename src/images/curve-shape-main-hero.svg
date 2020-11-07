@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="327" viewBox="0 0 1920 327">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="1920" height="327" transform="translate(0 603)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Curve_Shape_Main_Hero" data-name="Curve Shape Main Hero" transform="translate(0 -603)" clip-path="url(#clip-path)">
+    <path id="Path_203" data-name="Path 203" d="M2232.139,403.871,2187,895H-62V510c86.817-9.937,508.738,124.936,929.516,124.682C1641.139,634.215,2162,418.641,2232.139,403.871Z" transform="translate(-102 161.038)" fill="#005dff" opacity="0.75"/>
+    <path id="Path_202" data-name="Path 202" d="M1334,627C706.319,696.456,98.5,582.828-62,549.03V895H2187V540C2021,521,2066,546,1334,627Z" transform="translate(-102 161.038)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="Bed_Icon" data-name="Bed Icon" xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <path id="Icon_awesome-bed" data-name="Icon awesome-bed" d="M6.875,12A3.125,3.125,0,1,0,3.75,8.875,3.129,3.129,0,0,0,6.875,12Zm13.75-5h-8.75a.625.625,0,0,0-.625.625V13.25H2.5V5.125A.625.625,0,0,0,1.875,4.5H.625A.625.625,0,0,0,0,5.125v13.75a.625.625,0,0,0,.625.625h1.25a.625.625,0,0,0,.625-.625V17h20v1.875a.625.625,0,0,0,.625.625h1.25A.625.625,0,0,0,25,18.875v-7.5A4.375,4.375,0,0,0,20.625,7Z" transform="translate(7 7.5)" fill="#000a3e"/>
+  <g id="Ellipse_7" data-name="Ellipse 7" fill="none" stroke="#000a3e" stroke-width="3">
+    <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+    <circle cx="19.5" cy="19.5" r="18" fill="none"/>
+  </g>
+</svg>
